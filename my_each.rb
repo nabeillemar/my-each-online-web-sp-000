@@ -5,5 +5,4 @@ def my_each(array)# put argument(s) here
   counter = counter + 1 
 end 
 array 
-  # code here
 end
